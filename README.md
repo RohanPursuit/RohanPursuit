@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+https://www.codewars.com/users/Rohan2021/badges/large
 <!--
 **RohanPursuit/RohanPursuit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
